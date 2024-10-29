@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{24A632AD-4101-58AA-C07E-F3AA04E6AB17}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Netshoot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
